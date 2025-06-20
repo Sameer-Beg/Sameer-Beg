@@ -1,37 +1,71 @@
-# 👋 Hi there, I'm Sameer!
+<h1 align="center">Hi 👋, I'm Sameer Beg</h1>
 
-I'm a passionate **Full Stack Developer** who loves building dynamic, responsive, and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and contributing to exciting development projects. Always open to collaboration and new opportunities to grow in the tech world.
-
----
-
-## 🚀 Skills
-
-Here are the core technologies I work with:
-
-### 🌐 Frontend & Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Projects+and+Learning+Daily" alt="Typing animation" />
+</p>
 
 ---
 
-## 🛠️ Tools I Use
+## 🚀 About Me
 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-## 📫 Let's Connect
-
-Feel free to connect with me or check out my work:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sameer-beg-j423/)
-- 🌐 [Portfolio Website](https://www.yourwebsite.com)
-- 📧 Email: sameer423j@gmail.com
+- 🌱 Currently learning **Full Stack Web Development**
+- 💻 Focused on **React, Node.js, MongoDB, SQL**
+- 🔥 Passionate about solving real-world problems through code
+- ✍️ Love sharing knowledge and learning in public
+- 📫 Reach me at: `sameerbeg@example.com`
 
 ---
 
-_Thanks for visiting my profile! Let's build something awesome together._ 🚀
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameer-beg-j423/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sameer.beg223/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="sameer423j@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-Beg&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Beg&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sameer-Beg&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer-Beg&theme=github-compact&hide_border=true" />
+
+
+</p>
+
+
+## ✨ Fun Fact
+
+- I’m **very helpful**, **humble**, and believe in **learning by building** 🚀
