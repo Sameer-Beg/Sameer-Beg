@@ -12,7 +12,7 @@
 - 💻 Focused on **React, Node.js, MongoDB, SQL**
 - 🔥 Passionate about solving real-world problems through code
 - ✍️ Love sharing knowledge and learning in public
-- 📫 Reach me at: `sameerbeg@example.com`
+- 📫 Reach me at: `sameer423j@gmail.com`
 
 ---
 
