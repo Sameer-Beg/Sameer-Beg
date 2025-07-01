@@ -4,7 +4,6 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" />
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" alt="Typing animation" />
 </p>
@@ -12,6 +11,10 @@
 ---
 
 ## 🚀 About Me
+
+<p align="center">
+  <img src="assets/samtech.gif" width="200" />
+</p>
 
 - 🌱 Currently learning **Full Stack Web Development**
 - 💻 Focused on **MongoDB, Express.js, React, and Node.js**
