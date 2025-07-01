@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Beg</h1>
 
 <p align="center">
-  <img src="assets/giphy.gif" width="200" />
+  <img src="assets/samtech3.gif" width="200" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="assets/samtech.gif" width="200" />
+  <img src="assets/samtech2.gif" width="200" />
 </p>
 
 - 🌱 Currently learning **Full Stack Web Development**
