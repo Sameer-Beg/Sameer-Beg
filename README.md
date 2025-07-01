@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sameer Beg</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Projects+and+Learning+Daily" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" alt="Typing animation" />
 </p>
 
 ---
@@ -13,7 +14,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Full Stack Web Development**
-- 💻 Focused on **React, Node.js, MongoDB, SQL**
+- 💻 Focused on **MongoDB, Express.js, React, and Node.js**
 - 🔥 Passionate about solving real-world problems through code
 - ✍️ Love sharing knowledge and learning in public
 - 📧 Reach me at: `sameer423j@gmail.com`
@@ -36,24 +37,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-Beg&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-Beg&theme=radical" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sameer-Beg&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,sql,nextjs,java,git,github,vscode" />
 </p>
 
 ---
@@ -63,9 +47,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer-Beg&theme=github-compact&hide_border=true" />
 </p>
-
----
-
-## ✨ Fun Fact
-
-- I’m **very helpful**, **humble**, and believe in **learning by building** 🚀
