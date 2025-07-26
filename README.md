@@ -55,6 +55,4 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<img src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/snake.svg" width = 1500 alt="Snake animation" />
