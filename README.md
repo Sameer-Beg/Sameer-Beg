@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Beg</h1>
 
 <p align="center">
-  <img src="assets/giphy11.gif" width="200" />
+  <img src="jack.gif" width="200" />
 </p>
 
 <p align="center">
