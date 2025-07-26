@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" alt="Typing animation" />
 </p>
+## 🐍 Contribution Snake
 
+<img src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/snake.svg" width = 1500 alt="Snake animation" />
 ---
 
 ## 🚀 About Me
@@ -53,6 +55,4 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/snake.svg" width = 1500 alt="Snake animation" />
