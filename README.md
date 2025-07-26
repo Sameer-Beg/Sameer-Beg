@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="assets/samtech2.gif" width="200" />
+  <img src="chill.gif" width="200" />
 </p>
 
 - 🌱 Currently learning **Full Stack Web Development**
