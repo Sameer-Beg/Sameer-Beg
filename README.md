@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="chill.gif" width="200" />
+  <img src="https://github.com/Sameer-Beg/Sameer-Beg/blob/main/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" />
 </p>
 
 - 🌱 Currently learning **Full Stack Web Development**
