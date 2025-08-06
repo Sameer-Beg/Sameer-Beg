@@ -9,7 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Sameer-Beg
           outputs: |
@@ -18,10 +19,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to GitHub Pages
+      - name: Push Snake to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: output
+          commit_message: "chore: update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
