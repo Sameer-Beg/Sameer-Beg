@@ -10,11 +10,11 @@
 
 ---
 
-## 🕹️ Snake Bites of Productivity
+## 🐍 Snake Bites of Productivity
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/snake.svg" 
+    src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/github-contribution-grid-snake.svg" 
     alt="Contribution Snake" 
     width="100%" 
   />
@@ -30,8 +30,8 @@
 
 - 🌱 Currently learning **Full Stack Web Development**
 - 💻 Focused on **MongoDB, Express.js, React, and Node.js**
-- 🔥 Passionate about solving real-world problems through code
-- ✍️ Love sharing knowledge and learning in public
+- 🧠 Strong in **problem-solving** and writing clean code
+- ✍️ Love sharing knowledge and building in public
 - 📧 Reach me at: `sameer423j@gmail.com`
 
 ---
@@ -82,14 +82,13 @@
 
 ---
 
+## 🧾 Quick Facts
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sameer-Beg&style=flat-square&color=blue" alt="Profile Views" />
-
   <img src="https://img.shields.io/badge/🕒%20Time%20Zone-IST-lightgrey?style=flat-square" />
-
   <img src="https://img.shields.io/badge/Learning-MERN%20Stack-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=windows&logoColor=white" />
 </p>
-
