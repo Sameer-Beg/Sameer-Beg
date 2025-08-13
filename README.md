@@ -60,8 +60,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sameer-Beg&theme=darkhub&row=1&no-frame=true&title=Commit,PullRequest,Issues,Repositories"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sameer-Beg&theme=darkhub&row=1&no-frame=true" />
 </p>
+
 
 ---
 
