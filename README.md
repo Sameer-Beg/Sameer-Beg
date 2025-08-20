@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sameer Beg</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Sameer+Beg" alt="Typing animation" />
+</p>
+
+
 
 <p align="center">
-  <img src="jack.gif" width="200" />
+  <img src="https://github.com/Sameer-Beg/Sameer-Beg/blob/main/assets/lll.gif?raw=true.gif" width="200" />
 </p>
 
 <p align="center">
@@ -52,7 +56,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,sql,nextjs,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,react,nodejs,mongodb,express" />
 </p>
 
 ---
