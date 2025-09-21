@@ -62,12 +62,21 @@
 
 ---
 
-## 🐍 Contribution Snake  
+
 
 <p align="center">
-  <!-- Fancy Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=⚡+Watch+My+Contributions+Come+Alive!;🐍+Snake+Eating+My+GitHub+Commits!" alt="Typing Animation" />
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=⚡+Watch+My+Contributions+Come+Alive!;🐍+Snake+Eating+My+GitHub+Commits!" alt="Typing Animation" />
 </p>
+
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Sameer%20Beg-purple?style=for-the-badge" />
+</p>
+
 
 <p align="center">
   <!-- Snake SVG -->
@@ -88,3 +97,8 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Windows%2011-success?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
