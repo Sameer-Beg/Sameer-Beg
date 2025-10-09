@@ -10,7 +10,7 @@
 
 <!-- ✨ GIF / ANIMATION -->
 <p align="center">
-  <img src="https://github.com/Sameer-Beg/Sameer-Beg/blob/main/assets/plstn.gif?raw=true" width="250"/>
+  <img src="https://github.com/Sameer-Beg/Sameer-Beg/blob/main/assets/lll.gif?raw=true" width="250"/>
 </p>
 
 ---
