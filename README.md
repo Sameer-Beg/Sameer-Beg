@@ -12,7 +12,7 @@
 - 🌱 Learning **MERN Stack (MongoDB, Express, React, Node.js)**
 - 🧑‍💻 Interested in **Frontend + Backend Development**
 - 🧠 Focused on **DSA & Problem Solving**
-- 🎯 Goal: Crack **top tech internships**
+- 🎯 Goal: Crack **Become a successfull software Engineer**
 - 📫 Email: **sameer423j@gmail.com**
 
 ---
