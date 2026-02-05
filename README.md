@@ -1,9 +1,10 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Sameer Beg</span></h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Learner | Problem Solver</h3>
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sameer%20Beg&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Problem%20Solver&descAlignY=55"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+%7C+Problem+Solving;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+%26+Problem+Solving;Building+Projects+Daily;Open+to+Internships"/>
 </p>
 
 ---
@@ -34,24 +35,43 @@
 ---
 
 ## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,git,github,vscode,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
+  <br/>
+  <sub>Languages</sub>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+  <br/>
+  <sub>Frontend</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <br/>
+  <sub>Backend & Database</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <br/>
+  <sub>Tools</sub>
+</p>
+
+
+
+
+
+
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer-beg&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-beg&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
-## ⚡ GitHub Contribution Journey
+## ⚡ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-beg&theme=tokyo-night&hide_border=true&area=true&line=7C3AED&point=22C55E&custom_title=Consistency%20Matters" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer-Beg&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 
