@@ -77,7 +77,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Real Data)
+## 🐍 Snake Eating mY Contribution's 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
