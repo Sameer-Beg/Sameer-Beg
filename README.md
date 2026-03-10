@@ -1,6 +1,20 @@
 <!-- ===================== HERO ===================== -->
+<<!-- ===================== HERO SECTION ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sameer%20Beg&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Problem%20Solver&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hey%20👋%20I'm%20Sameer%20Beg&fontSize=45&fontAlignY=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Practitioner;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" />
+</p>
+
+<p align="center">
+  💻 Turning Ideas into Code &nbsp; | &nbsp; ⚡ Building Real-World Projects &nbsp; | &nbsp; 🚀 Consistent Learner
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameer-Beg&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -16,50 +30,52 @@
 - 🎯 Goal: **Become a successfull software Engineer**
 - 📫 Email: **sameer423j@gmail.com**
 - 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
-- 📫 How to reach me portfolio-sooty-two-98.vercel.app/
+- 📫 How to reach me https://portfolio-sooty-two-98.vercel.app/
 
 ---
 
-## 🌐 Connect With Me
+<!-- ===================== CONNECT ===================== -->
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sameerbeg6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sameer%20Beg-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Sameerbeg223" target="_blank">
-  <img src="https://img.shields.io/badge/X-@Sameerbeg223-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-  <a href="mailto:sameer423j@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sameer423j@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sameer423j@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Let’s build something impactful together 🚀</b>
 </p>
 
 ---
 
-## 💻 Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🚀 Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
-  <br/>
-  <sub>Languages</sub>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-  <br/>
-  <sub>Frontend</sub>
-</p>
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <br/>
-  <sub>Backend & Database</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <br/>
-  <sub>Tools</sub>
+  💻 <b>Languages:</b> HTML • CSS • JavaScript • Java <br/>
+  🎨 <b>Frontend:</b> React • Tailwind • Bootstrap <br/>
+  ⚙️ <b>Backend:</b> Node.js • Express.js <br/>
+  🗄️ <b>Database:</b> MongoDB <br/>
+  🛠️ <b>Tools:</b> Git • GitHub • VS Code
 </p>
 
 
