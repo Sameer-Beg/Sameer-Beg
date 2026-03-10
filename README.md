@@ -15,6 +15,8 @@
 - 🧠 Focused on **DSA & Problem Solving**
 - 🎯 Goal: **Become a successfull software Engineer**
 - 📫 Email: **sameer423j@gmail.com**
+- 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
+- 📫 How to reach me portfolio-sooty-two-98.vercel.app/
 
 ---
 
