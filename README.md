@@ -2,7 +2,7 @@
 <<!-- ===================== HERO SECTION ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hey%20👋%20I'm%20Sameer%20Beg&fontSize=45&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Hey%20👋%20I'm%20Sameer%20Beg&fontSize=50&color=gradient&animation=twinkling" />
 </p>
 
 <p align="center">
