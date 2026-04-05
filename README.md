@@ -1,40 +1,43 @@
 <!-- ===================== HERO ===================== -->
-<<!-- ===================== HERO SECTION ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Hey%20👋%20I'm%20Sameer%20Beg&fontSize=50&color=gradient&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20👋%20I'm%20Sameer%20Beg&fontSize=45&color=gradient&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Practitioner;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Practitioner;Building+Scalable+Web+Apps;Open+to+Internships+🚀" />
 </p>
 
 <p align="center">
-  💻 Turning Ideas into Code &nbsp; | &nbsp; ⚡ Building Real-World Projects &nbsp; | &nbsp; 🚀 Consistent Learner
+  💻 Turning Ideas into Code &nbsp; | &nbsp; ⚡ Building Real Projects &nbsp; | &nbsp; 🚀 Always Learning
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sameer-Beg&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+%26+Problem+Solving;Building+Projects+Daily;Open+to+Internships"/>
-</p>
-
 ---
 
-## 👨‍💻 About Me
-- 🌱 Learning **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🧑‍💻 Interested in **Frontend + Backend Development**
-- 🧠 Focused on **DSA & Problem Solving**
-- 🎯 Goal: **Become a successfull software Engineer**
-- 📫 Email: **sameer423j@gmail.com**
-- 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
-- 📫 How to reach me https://portfolio-sooty-two-98.vercel.app/
+## 🚀 About Me
+
+- 🧑‍💻 Passionate about **Full Stack Development (MERN)**
+- 📫 Portfolio → https://portfolio-sooty-two-98.vercel.app/
+
+### 🔥 Projects
+
+- 🤖 **AI Exam Notes Generator**  
+  🔗 https://ai-examnotes-mern-projectclient.onrender.com
+
+- 💬 **Real-Time Chat Application**  
+  🔗 https://chating-app-1pjx.onrender.com
+
+- 📝 **Blog Platform (MERN Stack)**  
+  🔗 https://blog-frontend-100x.onrender.com
+
+- 🧠⚡ **Real-Time Collaborative Code Editor**  
+  🔗 https://github.com/Sameer-Beg/RealTime_CODEEDITOR
 
 ---
-
-<!-- ===================== CONNECT ===================== -->
 
 <!-- ===================== CONNECT ===================== -->
 
@@ -42,15 +45,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameerbeg6/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Sameerbeg223" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sameer423j@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
@@ -65,24 +68,20 @@
 <h2 align="center">🚀 Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,java,cpp,python,git,github,vscode" />
 </p>
 
-<br/>
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  💻 <b>Languages:</b> HTML • CSS • JavaScript • Java <br/>
-  🎨 <b>Frontend:</b> React • Tailwind • Bootstrap <br/>
-  ⚙️ <b>Backend:</b> Node.js • Express.js <br/>
-  🗄️ <b>Database:</b> MongoDB <br/>
-  🛠️ <b>Tools:</b> Git • GitHub • VS Code
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-Beg&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sameer-Beg&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -92,10 +91,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer-Beg&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
-
 ---
 
-## 🐍 Snake Eating mY Contribution's 
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sameer-Beg/Sameer-Beg/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
@@ -103,6 +102,7 @@
 ---
 
 ## 🔥 Quick Facts
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sameer-beg&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
