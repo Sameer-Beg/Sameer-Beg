@@ -37,8 +37,9 @@
 - 🧠⚡ **Real-Time Collaborative Code Editor**  
   🔗 https://github.com/Sameer-Beg/RealTime_CODEEDITOR
 
-  - ⚙️🧠 **AI-Powered E-Commerce Platform (MERN Stack)**
+- 🧠⚡ **AI-Powered E-Commerce Platform (MERN Stack)**  
   🔗 https://ai-mern-ecommerce-frontend.onrender.com
+
 
 ---
 
