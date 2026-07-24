@@ -40,6 +40,10 @@
 - 🧠⚡ **AI-Powered E-Commerce Platform (MERN Stack)**  
   🔗 https://ai-mern-ecommerce-frontend.onrender.com
 
+- 🧠⚡ **TuneX Music App**  
+   🔗 https://tune-x-7qu5mrxfz-sameer-begs-projects.vercel.app
+    
+
 
 ---
 
