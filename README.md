@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 - 🧑‍💻 Passionate about **Full Stack Development (MERN)**
-- 📫 Portfolio → https://portfolio-sooty-two-98.vercel.app/
+- 📫 Portfolio → https://portfolio-proj-xi-eight.vercel.app/
 
 ### 🔥 Projects
 
